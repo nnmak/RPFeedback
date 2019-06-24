@@ -7,7 +7,6 @@
 
 
 **Expected Behaviour**
-[A clear and concise description of what you expected to happen. **Remove this line!**]
 
 
 **Screenshots, if applicable**

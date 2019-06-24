@@ -1,4 +1,4 @@
-## Bug reporting
+## Bug report
 
 **Describe the bug**
 
